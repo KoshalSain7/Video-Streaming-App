@@ -40,5 +40,5 @@ app.get('/video', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log(`Server Running at ${port}`);
+    console.log(`Server is Running at ${port}`);
 })
